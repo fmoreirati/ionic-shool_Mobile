@@ -12,6 +12,7 @@
     "@angular/http": "7.2.16",
     "@angular/platform-browser": "11.1.2",
     "@angular/platform-browser-dynamic": "11.1.2",
+    "@angular/router": "^11.1.2",
     "core-js": "^3.8.3",
     "ionic": "5.4.16",
     "rxjs": "6.6.3",
